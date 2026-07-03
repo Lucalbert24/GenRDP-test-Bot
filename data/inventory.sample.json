@@ -1,0 +1,46 @@
+[
+  {
+    "sku": "demo-it-vodafone-ipv4-001",
+    "label": "Demo Italy Vodafone IPv4 #001",
+    "ip_version": "ipv4",
+    "carrier": "Vodafone IT",
+    "conn_id": "conn_demo_vodafone_ipv4_001",
+    "price_24h": 10,
+    "price_7d": 30,
+    "status": "available",
+    "notes": "Dummy inventory row. Replace conn_id with a real iProxy connection ID."
+  },
+  {
+    "sku": "demo-it-windtre-ipv4-001",
+    "label": "Demo Italy WINDTRE IPv4 #001",
+    "ip_version": "ipv4",
+    "carrier": "WINDTRE IT",
+    "conn_id": "conn_demo_windtre_ipv4_001",
+    "price_24h": 10,
+    "price_7d": 30,
+    "status": "available",
+    "notes": "Dummy inventory row."
+  },
+  {
+    "sku": "demo-it-tim-ipv6-001",
+    "label": "Demo Italy TIM IPv6 #001",
+    "ip_version": "ipv6",
+    "carrier": "TIM IT",
+    "conn_id": "conn_demo_tim_ipv6_001",
+    "price_24h": 10,
+    "price_7d": 35,
+    "status": "available",
+    "notes": "Dummy inventory row."
+  },
+  {
+    "sku": "demo-es-movistar-ipv6-001",
+    "label": "Demo Spain Movistar IPv6 #001",
+    "ip_version": "ipv6",
+    "carrier": "Movistar ES",
+    "conn_id": "conn_demo_movistar_ipv6_001",
+    "price_24h": 10,
+    "price_7d": 35,
+    "status": "available",
+    "notes": "Dummy inventory row."
+  }
+]

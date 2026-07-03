@@ -1,0 +1,5 @@
+sku,label,ip_version,carrier,conn_id,price_24h,price_7d,status,notes
+demo-it-vodafone-ipv4-001,Demo Italy Vodafone IPv4 #001,ipv4,Vodafone IT,conn_demo_vodafone_ipv4_001,10,30,available,Dummy inventory row
+demo-it-windtre-ipv4-001,Demo Italy WINDTRE IPv4 #001,ipv4,WINDTRE IT,conn_demo_windtre_ipv4_001,10,30,available,Dummy inventory row
+demo-it-tim-ipv6-001,Demo Italy TIM IPv6 #001,ipv6,TIM IT,conn_demo_tim_ipv6_001,10,35,available,Dummy inventory row
+demo-es-movistar-ipv6-001,Demo Spain Movistar IPv6 #001,ipv6,Movistar ES,conn_demo_movistar_ipv6_001,10,35,available,Dummy inventory row
