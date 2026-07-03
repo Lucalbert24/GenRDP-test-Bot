@@ -1,0 +1,1 @@
+Telegram bot for selling short-term GenRDP mobile proxy tests with Stripe, PayPal, CoinGate, iProxy integration, admin inventory tools, and automated expiry cleanup.

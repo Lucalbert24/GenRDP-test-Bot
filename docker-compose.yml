@@ -1,0 +1,11 @@
+services:
+  genrdp-proxy-test-bot:
+    build: .
+    container_name: genrdp-proxy-test-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/app/data
